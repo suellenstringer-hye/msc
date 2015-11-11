@@ -74,8 +74,28 @@ WHERE
 
 }
 ```
-##Copying Data
+#####
 ##Creating New Data
+```
+# filename: ex185.rq
+
+PREFIX ab: <http://learningsparql.com/ns/addressbook#> 
+
+CONSTRUCT
+{
+  ?person ?p ?o ;
+          ab:areaCode ?areaCode . 
+}
+WHERE
+{
+  ?person ab:homeTel ?phone ;
+          ?p ?o . 
+  BIND (SUBSTR(?phone,2,3) as ?areaCode)
+}
+```
+
+##Copying Data
+
 ##Converting Data
 ##Finding Bad Data
 
