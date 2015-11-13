@@ -3,8 +3,6 @@
 
 Suellen Stringer-Hye 2015-11-02
 
-## Background
-
 ##Query Forms : SELECT, DESCRIBE, ASK and CONSTRUCT
 
 ##Copying Data
