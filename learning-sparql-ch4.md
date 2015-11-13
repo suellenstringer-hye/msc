@@ -1,5 +1,5 @@
 #Learning SPARQL Chapter 4 - 
-##Copying, Creating and Converting Data (and Finding Bad Data)
+###Copying, Creating and Converting Data (and Finding Bad Data)
 
 Suellen Stringer-Hye 2015-11-02
 
@@ -8,6 +8,7 @@ Suellen Stringer-Hye 2015-11-02
 ##Query Forms : SELECT, DESCRIBE, ASK and CONSTRUCT
 
 ##Copying Data
+Example 1
 ```
 # filename: ex174.rq
 
