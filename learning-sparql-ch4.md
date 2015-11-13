@@ -1,5 +1,5 @@
-#Learning SPARQL Chapter 4 - 
-###Copying, Creating and Converting Data (and Finding Bad Data)
+##Learning SPARQL Chapter 4 - 
+#Copying, Creating and Converting Data (and Finding Bad Data)
 
 Suellen Stringer-Hye 2015-11-02
 
