@@ -3,9 +3,9 @@
 
 Suellen Stringer-Hye 2015-11-02
 
-##Query Forms : SELECT, DESCRIBE, ASK and CONSTRUCT
+###Query Forms : SELECT, DESCRIBE, ASK and CONSTRUCT
 
-##Copying Data
+####Copying Data
 
 ```
 # filename: ex174.rq
@@ -22,7 +22,7 @@ WHERE
 }
 
 ```
-###CONSTRUCT
+####CONSTRUCT
 ```
 # filename: ex176.rq
 
@@ -40,7 +40,7 @@ WHERE
 }
 
 ```
-#####CONSTRUCT With WHERE
+######CONSTRUCT With WHERE
 ```
 # filename: ex178.rq
 
@@ -74,7 +74,7 @@ WHERE
 }
 ````
 
-##Creating New Data
+###Creating New Data
 ````
 # filename: ex184.rq
 
@@ -107,7 +107,7 @@ WHERE
 
 
 
-##Converting Data
+###Converting Data
 ```
 # filename: ex194.rq
 
@@ -162,9 +162,9 @@ WHERE
 
 }
 ```
-##Finding Bad Data
+###Finding Bad Data
 
-###Defining Rules with SPARQL
+####Defining Rules with SPARQL
 ```
 # filename: ex199.rq
 
@@ -209,7 +209,7 @@ ASK WHERE
 }
 ```
 
-###Generating Data About Broken Rules
+####Generating Data About Broken Rules
 ```
 # filename: ex203.rq
 
@@ -317,7 +317,7 @@ WHERE
 }
 ```
 
-##Asking for a Description of a Resource
+###Asking for a Description of a Resource
 ```
 # filename: ex213.rq
 
