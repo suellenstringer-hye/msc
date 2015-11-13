@@ -6,7 +6,7 @@ Suellen Stringer-Hye 2015-11-02
 ##Query Forms : SELECT, DESCRIBE, ASK and CONSTRUCT
 
 ##Copying Data
-Example 1
+
 ```
 # filename: ex174.rq
 
